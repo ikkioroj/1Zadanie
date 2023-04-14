@@ -1,0 +1,3 @@
+/Users/nurguyaanasysolyatina/CLionProjects/1Zadanie/cmake-build-debug/CMakeFiles/1Zadanie.dir
+/Users/nurguyaanasysolyatina/CLionProjects/1Zadanie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nurguyaanasysolyatina/CLionProjects/1Zadanie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
